@@ -1,8 +1,8 @@
-# Sample NodeJS Backend
-
+# Sample NodeJS Backend deploying to EC2
+An Example of API Server created by [Nest](https://github.com/nestjs/nest) framework.
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. Backend will expose 2 endpoints `/cats` and `/`.
+Backend will expose 2 endpoints `/cats` and `/`.
 
 ## Endpoints Description
 > GET /: Returning server info
