@@ -68,6 +68,15 @@ After cloning the repo, go inside the folder and install dependencies
 ```bash
 cd AWS-NestJS && yarn
 ```
+Add Environment Variables
+```bash
+# Copy Environment Variables Manifest
+cp .env.example .env
+```
+Update Environment Variables with correct info
+```bash
+vi .env
+```
 Build Application
 ```bash
 yarn build
